@@ -1,2 +1,2 @@
 # ATM-PETproject
-This is my pet project of simple ATM software
+This is my pet project of a simple ATM software
